@@ -1,4 +1,4 @@
-# Herança 2
+# CLASSE ABSTRATA 1
 Exercicio que pega dados da conta bancaria, adicionando taxas de saque, depósito e consulta, com dois tipos de conta, corrente e poupança
 
 ## Começando
